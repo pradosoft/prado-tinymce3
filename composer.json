@@ -1,0 +1,13 @@
+{
+	"name": "pradosoft/prado-tinymce3",
+	"description": "Packaged tinyMCE 3 in Prado",
+	"homepage": "https://github.com/pradosoft/prado-tinymce3",
+	"license" : "LGPL-2.1",
+	"authors": [
+		{
+			"name": "Fabio Bas",
+			"email": "ctrlaltca@gmail.com",
+			"role" : "Developer"
+		}
+	]
+}
