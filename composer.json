@@ -9,5 +9,8 @@
 			"email": "ctrlaltca@gmail.com",
 			"role" : "Developer"
 		}
-	]
+	],
+	"provide" : {
+		"pradosoft/prado-tinymce3" : "3.5.11"
+	},
 }
