@@ -12,5 +12,5 @@
 	],
 	"provide" : {
 		"pradosoft/prado-tinymce3" : "3.5.12-prado1"
-	},
+	}
 }
